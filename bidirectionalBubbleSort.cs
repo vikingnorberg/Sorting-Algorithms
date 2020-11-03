@@ -1,6 +1,8 @@
 using System;
 using System.Diagnostics;
 
+// My Name is dick
+
 namespace bidirectionalBubbleSort
 {
     class bidirectionalBubbleSort 
